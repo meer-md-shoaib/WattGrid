@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment secrets
+.env
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Raw datasets (keep large files local - UCI dataset is ~133MB)
+data/*.txt
+data/*.csv
+data/*.zip
+data/*.gz
+data/*.parquet
+!data/README.md
+!data/.gitkeep
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
