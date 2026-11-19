@@ -193,3 +193,6 @@ Trains and benchmarks **Seasonal Naive Baseline, Random Forest, XGBoost, and Lig
 2. **Gradient Boosting (XGBoost / LightGBM):** Benchmark tree-based gradient boosting ensembles for faster training, native handling of missing values, and potential incremental accuracy gains over Random Forest.
 3. **Deep Learning Sequence Models (LSTM / Temporal Fusion Transformers):** Implement Long Short-Term Memory (LSTM) recurrent networks and Temporal Fusion Transformers (TFT) with quantile loss for probabilistic prediction intervals.
 4. **Automated Weather API Ingestion:** Integrate Open-Meteo or NOAA APIs to supply temperature, wind chill, and humidity as dynamic exogenous features.
+
+
+## By :- Meer Mohammed Shoaib
